@@ -2,10 +2,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadirlatif&theme=nord_dark"> 
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayesha-irshad/">
+  <a href="https://www.linkedin.com/in/abdul-qadir-abdul-latif-8a1128256/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Ayeshairshad124">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 I am a Computer Scientist / Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.gif?cid=ecf05e477rwbfukqxj1vya3n0n69gz1uro4fktmzwevhteb4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on Supervised Machince Learning
 - 🌱 I’m currently learning Machine Learning
