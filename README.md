@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyeshaIrshad1337&theme=nord_dark"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadirlatif&theme=nord_dark"> 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ayesha-irshad/">
@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">  
-<img src="https://komarev.com/ghpvc/?username=AyeshaIrshad1337&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=qadirlatif&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -40,7 +40,7 @@ I am a Computer Scientist / Machine Learning Engineer <img src="https://media.gi
 ---
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaIrshad1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadirlatif&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaIrshad1337&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaIrshad1337&theme=nord_dark)
 
