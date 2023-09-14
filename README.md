@@ -16,17 +16,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Computer Scientist / Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on Supervised Machince Learning
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on projects related with AI
-- 🤔 I’m looking for help with my Work to Grow
-- 💬 Ask me about anything regarding my Work
-- 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/ayesha-irshad/))
-
-- ⚡ Fun fact: I Dont't Give UP Easily
+I am well-versed in various programming languages, including Flutter, ASP.NET MVC, SQL Server, and many more. My expertise in these technologies allows you to develop versatile and dynamic applications and websites. Flutter, you can create cross-platform mobile apps with ease. ASP.NET MVC empowers you to build robust and scalable web applications, while SQL Server enables you to manage and manipulate databases efficiently. My proficiency in multiple programming languages makes me a highly capable and resourceful developer, ready to take on diverse challenges in the world of software development.
 
 ---
 
