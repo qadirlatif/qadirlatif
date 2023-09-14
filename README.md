@@ -41,11 +41,11 @@ I am a Computer Scientist / Machine Learning Engineer <img src="https://media.gi
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadirlatif&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyeshaIrshad1337&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyeshaIrshad1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadirlatif&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadirlatif&theme=nord_dark)
 
 ## ⚡Recent GitHub Activity
-[![Ayesha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyeshaIrshad1337&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayesha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qadirlatif&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
