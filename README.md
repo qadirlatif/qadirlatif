@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+About Me :
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -23,7 +23,7 @@ I am well-versed in various programming languages, including Flutter, ASP.NET MV
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 
 <div>  
 
@@ -32,12 +32,12 @@ I am well-versed in various programming languages, including Flutter, ASP.NET MV
 
 ---
 
-### :fire: My Stats :
+My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadirlatif&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadirlatif&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadirlatif&theme=nord_dark)
 
-## ⚡Recent GitHub Activity
+⚡Recent GitHub Activity
 [![Ayesha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qadirlatif&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
