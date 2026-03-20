@@ -56,7 +56,7 @@ src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qazimubin12&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadirlatif&theme=dark" />
 </p>
 
 ---
