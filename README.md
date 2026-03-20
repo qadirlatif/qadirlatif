@@ -17,7 +17,7 @@ src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 - 🎯 Goal: Deliver high-quality, production-ready solutions  
 
 ### 📫 Contact Me
-- 📧 abdulqadir.dev@gmail.com  
+- 📧 abdulqadir.aboobakar@gmail.com
 
 <br>
 
